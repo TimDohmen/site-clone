@@ -20,6 +20,6 @@ When you are ready to start coding, you will need to create a new application in
 - [ ] The page utilizes the Bootstrap Grid system to maintain a proper architecture
 - [ ] Appropriate use of HTML5 Semantic tags for the `header` and the `footer`
 - [ ] The page layout is the same as the mock (content and colors can be changed)
-
+- [ ] On mobile any elements sharing a row should stack (hint: col-12)
 ## Template
   ![template](./html-css-clone.png)

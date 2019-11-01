@@ -23,4 +23,4 @@ When you are ready to start coding, you will need to create a new application in
 - [ ] On mobile any elements sharing a row should stack (hint: col-12)
 
 ## Specification callouts
-![specifications](./clonesitespecifications.png)
+![specifications](./CloneSiteSpecifications.png)

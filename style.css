@@ -3,6 +3,11 @@
 }
 
 .topper{
-  background-color: aqua;
   min-height: 100vh;
+  background: linear-gradient(to left bottom, #8e02dc 50%, white 50%);
+
+}
+
+.nav-items{
+  cursor: pointer;
 }

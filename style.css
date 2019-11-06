@@ -9,6 +9,22 @@
   flex-direction: row;
 }
 
+.middle{
+  min-height: 80vh;
+  display: flex;
+  background-color: #fdbe15;
+  flex-direction: row;
+}
+.bottom{
+  min-height: 80vh;
+  display: flex;
+  flex-direction: row;
+}
+.middle-ext{
+  min-height: 20vh;
+  background-color: white;
+  display: flex;
+}
 
 .order-class{
   display: flex;
@@ -18,11 +34,34 @@
 justify-content: center;
 }
 
-
 .main-text{
   float: left;
   margin: auto;
 }
+
 .nav-items{
   cursor: pointer;
 }
+
+.card-img-top{
+  border-radius: 50%;
+  background: transparent;
+}
+
+.middle-cards{
+  background: transparent;
+  border: none;
+  position: relative;
+  margin-bottom: -60px;
+}
+
+.card-body{
+  background-color: #9e09f2;
+}
+
+.overflow-buttons{
+  position: relative;
+  margin-left: 60px;
+  margin-bottom: -150px;
+}
+

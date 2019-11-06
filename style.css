@@ -11,23 +11,18 @@
 
 
 .order-class{
-  display: inline-block;
+  display: flex;
 }
 
 .videosnip{
-  order: 1;
-  float: right;
+justify-content: center;
 }
+
+
 .main-text{
-  order: 2;
   float: left;
+  
 }
 .nav-items{
   cursor: pointer;
 }
-/* #lower-text {
-  order: 2;
-}
-#over-pic  {
-  order: 1;
-} */

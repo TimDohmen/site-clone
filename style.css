@@ -5,9 +5,29 @@
 .topper{
   min-height: 100vh;
   background: linear-gradient(to left bottom, #8e02dc 50%, white 50%);
-
+  display: flex;
+  flex-direction: row;
 }
 
+
+.order-class{
+  display: inline-block;
+}
+
+.videosnip{
+  order: 1;
+  float: right;
+}
+.main-text{
+  order: 2;
+  float: left;
+}
 .nav-items{
   cursor: pointer;
 }
+/* #lower-text {
+  order: 2;
+}
+#over-pic  {
+  order: 1;
+} */

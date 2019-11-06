@@ -44,6 +44,7 @@ justify-content: center;
 }
 
 .card-img-top{
+  margin-top: 15vh;
   border-radius: 50%;
   background: transparent;
 }
@@ -57,11 +58,17 @@ justify-content: center;
 
 .card-body{
   background-color: #9e09f2;
+  margin-top: 2vh;
 }
 
 .overflow-buttons{
-  position: relative;
-  margin-left: 60px;
-  margin-bottom: -150px;
+  position: absolute;
+  
+  margin-bottom: -15vh;
+  background-color: #ff0994;
+  margin-left: 4vw;
+}
+.bot-vid{
+  margin-top: 12vh;
 }
 

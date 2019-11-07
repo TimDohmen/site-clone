@@ -9,6 +9,11 @@
   flex-direction: row;
 }
 
+/* iframe{
+  width: 400px;
+  height: 350px;
+} */
+
 .middle{
   min-height: 80vh;
   display: flex;
@@ -32,6 +37,9 @@
 
 .videosnip{
 justify-content: center;
+position: relative;
+width: auto;
+height: auto;
 }
 
 .main-text{
@@ -69,6 +77,31 @@ justify-content: center;
   margin-left: 4vw;
 }
 .bot-vid{
-  margin-top: 12vh;
+  margin-top: 5vh;
+justify-content: center;
+margin-left: 0px;
 }
+.logo-area{
+  min-height: 15vh;
+  background-color: #9108de;
+  /* align-content: center; */
+  /* position: absolute; */
+  /* min-width: 99vw; */
+  width: 100%;
+
+}
+
+.bot-logo{
+  position: relative;
+  left: 45%;
+}
+
+footer{
+  min-height: 12vh;
+  background-color: #292929;
+    /* position: absolute; */
+  bottom: 0;
+  /* width: 100%; */
+}
+
 

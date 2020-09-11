@@ -4,7 +4,11 @@
 
 .topper{
   min-height: 100vh;
-  background: linear-gradient(to left bottom, #8e02dc 50%, white 50%);
+  background: linear-gradient(to left bottom, #8e02dc 50%, white 50%);  
+  
+  /* linear-gradient(-63deg, rgba(28,25,84,1) 50%,transparent 0) calc(50% - 100px) 0/200px 100%, */
+    /* linear-gradient(#8e02dc,rgba(28,25,84,1)) right/50% 100%, */
+    /* linear-gradient(to bottom, red,blue); */
   display: flex;
   flex-direction: row;
 }
